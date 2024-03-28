@@ -1,4 +1,4 @@
-![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
+![Untitled design](https://github.com/tibirabotto/tibira-eats/blob/main/public/screen_shot.png)
 
 # Build A React JS Website Styled With Tailwind CSS
 
@@ -6,4 +6,4 @@
 
 All of the data/images to simulate API responses are located at src/data/data.js
 
-This was a fun little project consisting of React & Tailwind which is a super powerful frontend combination you can used to quickly build websites. In this build I focus on adding a little extra javascript with the array filter method to filter out specific food types and pricing categories.
+This project was an enjoyable endeavor utilizing React and Tailwind, a potent frontend combination ideal for swiftly crafting websites. Within this project, I emphasized the integration of additional JavaScript functionalities, particularly the array filter method. This method was employed to selectively filter out distinct food types and pricing categories, enhancing the project's functionality and user experience.
